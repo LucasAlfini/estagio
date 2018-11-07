@@ -1,0 +1,10 @@
+D:\ViajeTranquilo-PI-IV\ViajeTranquilo\bin\Debug\ViajeTranquilo.dll
+D:\ViajeTranquilo-PI-IV\ViajeTranquilo\bin\Debug\ViajeTranquilo.pdb
+D:\ViajeTranquilo-PI-IV\ViajeTranquilo\obj\Debug\ViajeTranquilo.csprojResolveAssemblyReference.cache
+D:\ViajeTranquilo-PI-IV\ViajeTranquilo\obj\Debug\ViajeTranquilo.dll
+D:\ViajeTranquilo-PI-IV\ViajeTranquilo\obj\Debug\ViajeTranquilo.pdb
+C:\Users\Aluno\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\bin\Debug\ViajeTranquilo.dll
+C:\Users\Aluno\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\bin\Debug\ViajeTranquilo.pdb
+C:\Users\Aluno\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\obj\Debug\ViajeTranquilo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\obj\Debug\ViajeTranquilo.dll
+C:\Users\Aluno\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\obj\Debug\ViajeTranquilo.pdb

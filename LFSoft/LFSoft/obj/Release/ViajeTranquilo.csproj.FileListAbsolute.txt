@@ -1,0 +1,10 @@
+C:\Users\Eduardo\Desktop\Aulas\ViajeTranquilo-LP-IV\ViajeTranquilo\bin\Release\ViajeTranquilo.dll
+C:\Users\Eduardo\Desktop\Aulas\ViajeTranquilo-LP-IV\ViajeTranquilo\bin\Release\ViajeTranquilo.pdb
+C:\Users\Eduardo\Desktop\Aulas\ViajeTranquilo-LP-IV\ViajeTranquilo\obj\Release\ViajeTranquilo.dll
+C:\Users\Eduardo\Desktop\Aulas\ViajeTranquilo-LP-IV\ViajeTranquilo\obj\Release\ViajeTranquilo.pdb
+C:\Users\Lucas\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\bin\Release\ViajeTranquilo.dll
+C:\Users\Lucas\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\bin\Release\ViajeTranquilo.pdb
+C:\Users\Lucas\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\obj\Release\ViajeTranquilo.csprojAssemblyReference.cache
+C:\Users\Lucas\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\obj\Release\ViajeTranquilo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\obj\Release\ViajeTranquilo.dll
+C:\Users\Lucas\Downloads\ViajeTranquilo-PI-IV\ViajeTranquilo\obj\Release\ViajeTranquilo.pdb

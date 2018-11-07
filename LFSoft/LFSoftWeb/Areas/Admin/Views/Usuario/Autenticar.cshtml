@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Autenticação do Usuário";
+}
+
+<h3>Painel Administrativo</h3>
+
+@using (Html.BeginForm())
+{
+    FormCollection form = new FormCollection();
+    if (ViewBag.formData != null)
+    {
+        form = ViewBag.formData as FormCollection;
+    }
+    <div class="form-group">
+        <label for="txtId">Id do Usuário</label>
+        @Html.TextBox("txtId", form["txtId"], new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label for="txtSenha">Senha de Acesso</label>
+        @Html.Password("txtSenha", form["txtSenha"], new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <input type="checkbox" class="checkbox-inline" id="ckLembrar" name="ckLembrar" value="1" @(form["ckLembrar"] == "1" ? "checked" : "") /> <label>Lembrar minha identificação de acesso</label>
+    </div>
+    <div class="form-group">
+        <label class="label label-danger">@ViewBag.Msg</label>
+    </div>
+    <button type="submit" class="btn btn-success" id="btnValidar" name="btnValidar">Validar Acesso</button>
+}
+
